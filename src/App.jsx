@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./components/Auth/Login.jsx";
 import { Toaster } from "react-hot-toast";
 import Home from "./components/Auth/Home.jsx";
-import SignUp from "./components/Auth/Signup.jsx";
+import SignUp from "./components/Auth/SignUp.jsx";
 const App = () => {
   return (
     <div className="">
