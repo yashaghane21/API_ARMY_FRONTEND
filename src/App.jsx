@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Login from "./components/Auth/Login.jsx";
-import SignUp from "./components/Auth/Signup.jsx";
 import { Toaster } from "react-hot-toast";
 import Home from "./components/Auth/Home.jsx";
+import SignUp from "./components/Auth/Signup.jsx";
 const App = () => {
   return (
     <div className="">
